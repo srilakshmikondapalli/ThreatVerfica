@@ -11,7 +11,7 @@ class sub:
         try:
             ip_name = IPAddress(ip_name)
         except AddrFormatError:
-            print(f"invalid IPaddress.provide data as {ip_name}")
+            print(f"invalid IPaddress.provide data as ips")
             return False
         else:
             if ip_name.version in [4, 6]:

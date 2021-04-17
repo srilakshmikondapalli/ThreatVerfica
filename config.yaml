@@ -1,5 +1,0 @@
-url: https://endpoint.apivoid.com
-ip_endpoint: /iprep/v1/pay-as-you-go/
-key: a5af2c8f86e05702eefa541e0328b4849b6c479f
-domain_endpoint: /domainbl/v1/pay-as-you-go/
-url_endpoint: /urlrep/v1/pay-as-you-go/
