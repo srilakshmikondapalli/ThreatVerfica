@@ -41,9 +41,9 @@ Here threat intelligence platforms include:
    #### netaddr
       netaddr is a third party package which is used for ip validation.
    #### json
-     json is a built-in package abbreviated as java script object notation  which is used for storing and exchanging of data.
+      json is a built-in package abbreviated as java script object notation  which is used for storing and exchanging of data.
    #### tabulate
-     tabulate package gives the fetched data in table format. 
+      tabulate package gives the fetched data in table format. 
    
     
     
